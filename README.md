@@ -20,7 +20,7 @@ Um sistema robusto e eficiente desenvolvido com **Django** e **Bootstrap 5**, id
 
 - **Django**
 - **Bootstrap 5**
-- **SQLite**
+- **Django Rest Framework**
 - **HTML5, CSS3 e JavaScript**
 
 ---
